@@ -1,2 +1,2 @@
 # justiceleague
-Andela class2
+Richard Ekong
